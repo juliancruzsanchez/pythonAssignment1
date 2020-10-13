@@ -1,0 +1,3 @@
+Improve my Trivia Game so that each question has a unique point value associated with it.
+ The player’s score should be the total of all the point values of the questions he or she answers correctly. 
+ Name it TriviaGameV2.
